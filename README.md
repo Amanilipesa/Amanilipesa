@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amanilipesa
 - 👀 I’m interested in front-end design
-- 🌱 I’m currently learning css and javascript
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on css and javascript
 - 📫 How to reach me: my email amanidlipesa@gmail.com
 
